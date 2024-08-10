@@ -58,7 +58,7 @@ To run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/docscolab.git
+   git remote add origin https://github.com/Satyasuranjeet/DocsColab.git
    cd docscolab
    ```
 
