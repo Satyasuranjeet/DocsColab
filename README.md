@@ -1,6 +1,4 @@
-Here's a `README.md` file for your Next.js project, **DocsColab**:
 
-```markdown
 # DocsColab 🔋
 
 DocsColab is a powerful, collaborative document editing platform designed to enhance teamwork and productivity. With real-time updates, robust document management, and seamless user authentication, DocsColab is your go-to solution for creating, sharing, and collaborating on documents.
@@ -105,6 +103,3 @@ Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTIN
 ---
 
 Happy Collaborating! ✨ Developed by Satya ``)->
-```
-
-This `README.md` provides a comprehensive overview of your project, including its features, tech stack, and setup instructions.
